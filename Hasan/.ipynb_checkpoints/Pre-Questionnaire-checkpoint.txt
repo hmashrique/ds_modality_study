@@ -1,0 +1,43 @@
+Student Pre-Test Quesionannire:
+
+
+1. Name: Hasan Mashrique
+2. Gender: male
+3. Major: Computer Science
+
+4. Rate your coding expertise (out of 5): 3.5
+
+5. Have you had previous experience in python coding? If so, rank your expertise (out of 5)?
+yes.
+4 
+
+6. Do you have working experience with computational notebooks(jupyter notebook)?
+yes
+
+7. Have you had previous experience with data science coding using python? If so rank your expertise (out of 5)?
+3
+
+8. Which of the following data science topic you are comfortable with?
+ - Linear Regression
+ - Decision Trees
+ - Random Forests 
+ - Clustering
+ - Support Vector Machine
+ - Naive Bayes
+ - Logistic Regression
+ - K Nearest Neighbors Classification
+ 
+Ans: decision trees, support vector , k nearest neoighbors, linear regression 
+ 
+9. Have you had any experience in handling a dataset that is not clean (missing values, having NULL values etc.)?
+
+No
+
+10. If so , what type of data cleaning have you encountered from the following options?
+
+ - Handling NULL/missing values
+ - Removing outliers
+ - Common Scale
+ - Deleting garbage data
+ 
+ans: None of these
