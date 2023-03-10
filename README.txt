@@ -19,7 +19,7 @@ Step 1. Complete the pre-questionnaire
 Step 2. There are 2 types of worked examples:
     - Worked Example
     - Worked Example(Subgoals)
-Both the folder contains notebook "Outliers.ipynb". You can read any version of your choice
+Both the folder contains notebook on Outliers. You can read any version of your choice. You can practice the worked example codes by opening a new notebook.
 
 Step 3. Go to the "Problem Solving" folder. You will find a notebook "Outliers-PS.ipynb". Complete the notebook
 from the given instructions.(you can use any worked example as resource)

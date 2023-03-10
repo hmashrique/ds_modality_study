@@ -1,0 +1,37 @@
+Script:
+
+Hello and welcome to the lab. Today we are going to conduct a study on a topic in data science in the lab. Since you are already enrolled to the data science course, it should be helpful for you to learn a new topic in a different way. 
+
+Lets first discuss about what we are going to do today.
+**Brief about the study setup**
+- pre questionnaire
+
+- worked examples
+
+- problem solving
+
+- errex example solving
+
+- post questionnaire
+
+pre-questinnaire
+- lets fill up this form that requires some basic information about your experience in coding and also in data science
+
+worked examples
+- so there will be 3 different types of worked examples for you to look at.. All of them will have the same content
+but they will differ in their structure.
+ ** describe the notebook types and refer to the demo link to watch**
+You will have time to learn todays topic using any of the notebooks
+
+*** add think aloud practice
+ 
+problem solving 
+- we will solve a problem that is similar to the worked example we just studied.
+The instructions are given in the notebook to solve the problem. You can use any type of the worked examples that we studied. Use them at your convenience to solve the problem.(help out the students if they are stuck somewhere for too long- guide them to the solution wdout giving away the answer)
+
+errex solving
+- next we will move on to the errex problem solving. This is a problem similar to the worked example problem. The 
+main difference is that the solution steps are given in this example. But some of these steps have errors in them. You will need to correct these errors and move to the next step. This process will lead you to the solution of the problem.
+
+post-questionnaire
+- And finally we will fill in a post questionnaire that will ask you some questions about the study. 

@@ -5,13 +5,16 @@ Student Pre-Test Quesionannire:
 2. Gender:
 3. Major:
 
-4. Rate your coding expertise (out of 5):
+4. Rate your coding expertise: 
+(from 1 of 5: 1- not much confident , 5- very confident)
 
-5. Have you had previous experience in python coding? If so, rank your expertise (out of 5)?
+5. Have you had previous experience in python coding? If so, rank your expertise. 
+(from 1 of 5: 1- not much confident , 5- very confident)
 
-6. Have you had working experience with computational notebooks(jupyter notebook)?
+6. Have you had working experience with computational notebooks(jupyter notebook) before?
 
-7. Have you had previous experience with data science coding using python? If so rank your expertise (out of 5)?
+7. Have you had previous experience with data science coding using python? If so rank your expertise. 
+(from 1 of 5: 1- not much confident , 5- very confident)
 
 8. Which of the following data science topic you are comfortable with?
  - Linear Regression
