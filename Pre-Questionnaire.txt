@@ -35,7 +35,7 @@ Student Pre-Test Questionnaire:
 10. If so , what type of data cleaning have you encountered from the following options?
 
  - Handling NULL/missing values
- - Removing outliersgit 
+ - Removing outliers
  - Common Scale
  - Deleting garbage data
 
