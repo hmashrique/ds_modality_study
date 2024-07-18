@@ -1,16 +1,18 @@
+Study Website: https://hmashrique.github.io/
 
-File structure:
+Problem Solving Website: https://saturn.olney.ai/
+
+
+Study Format:
 
 - Pre-Questionnaire.txt
 
-- Worked Examples
-- Worked Examples(Subgoals)
+- Go to study website for Worked Example learning
+- Go to saturn webstie for problem solving
+    - independent problem solving
+    - completion problems solving
 
-- Problem Solving
-
-- Erroneous Example Solving
-
-- README.txt 
+- Post Questionnaire 
 
 
 Steps to follow:
