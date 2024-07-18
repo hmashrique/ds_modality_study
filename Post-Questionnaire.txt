@@ -1,5 +1,8 @@
 Post-Questionnaire:
 
+
+------------------ old ------------------------
+
 1. Out of the 3 worked example(explanation,sub-goals,video) versions, which one did you prefer while
     - while first learning the topic? Briefly describe your choice.
     - solving the problem? Briefly describe your choice. 
@@ -12,7 +15,24 @@ Post-Questionnaire:
   if no, what do u suggest (design of the worked example)
 
 
+--------------------- latest ----------------------
 
+
+1. How much did you use the pre knowledge information while solving the problem?
+
+
+2. Was the conceptual information helpful for you? describe briefly?
+
+
+3. Was the code explanations helpful or tedious for you? Briefly explain your reasons.
+
+
+4. Which aspect of the worked example was most helpful for you in solving the problems?
+
+
+5. What were the issues you faced while using the worked examples (while navigating, code explanations, conceptual explanations)?
+
+6. From the given problem solving notebooks, which ones helped you learn better?
 
 
 
