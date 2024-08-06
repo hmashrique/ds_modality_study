@@ -4,12 +4,16 @@
 Student Pre-Test Questionnaire:
 
 
-1. Name: 
+
 2. Gender:
+## add race/minority questions
 3. Major:
 
-4. Rate your coding expertise: 
-(from 1 of 5: 1= not much confident , 5= very confident)
+
+## ask these after the study
+
+4. Rate your coding expertise: ## 4/5 almost similar
+(from 1 of 5: 1= not much confident , 5= very confident/expert)
 
 5. Have you had previous experience in python coding? If so, rank your expertise. 
 (from 1 of 5: 1= not much confident , 5= very confident)
@@ -19,7 +23,7 @@ Student Pre-Test Questionnaire:
 7. Have you had previous experience with data science coding using python? If so, rank your expertise. 
 (from 1 of 5: 1= not much confident , 5= very confident)
 
-8. Which of the following data science topics are you familiar with?
+8. Which of the following data science topics are you familiar with? ## add tabular format for expertise
  - Linear Regression
  - Decision Trees
  - Random Forests 
@@ -33,10 +37,10 @@ Student Pre-Test Questionnaire:
 
 
 10. If so , what type of data cleaning have you encountered from the following options?
-
+## perhaps not required 
  - Handling NULL/missing values
  - Removing outliers
  - Common Scale
  - Deleting garbage data
 
-
+## try to merge into small concise questions to get the answers
