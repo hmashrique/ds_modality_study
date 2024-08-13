@@ -5,25 +5,14 @@ Student Pre-Test Questionnaire:
 
 
 
-2. Gender:
+Q. Gender:
 ## add race/minority questions
-3. Major:
+Q. Major:
 
 
-## ask these after the study
+Q. Have you had experience using computational notebooks(jupyter notebook) before?
 
-4. Rate your coding expertise: ## 4/5 almost similar
-(from 1 of 5: 1= not much confident , 5= very confident/expert)
-
-5. Have you had previous experience in python coding? If so, rank your expertise. 
-(from 1 of 5: 1= not much confident , 5= very confident)
-
-6. Have you had experience using computational notebooks(jupyter notebook) before?
-
-7. Have you had previous experience with data science coding using python? If so, rank your expertise. 
-(from 1 of 5: 1= not much confident , 5= very confident)
-
-8. Which of the following data science topics are you familiar with? ## add tabular format for expertise
+Q. Which of the following data science topics are you familiar with? ## add tabular format for expertise
  - Linear Regression
  - Decision Trees
  - Random Forests 
@@ -33,14 +22,8 @@ Student Pre-Test Questionnaire:
  - Logistic Regression
  - K Nearest Neighbors Classification
  
-9. Have you had any experience cleaning a dataset that contains garbage data (missing values, having NULL values etc.)?
+Q. Have you had any experience cleaning a dataset that contains garbage data (missing values, having NULL values etc.)?
 
 
-10. If so , what type of data cleaning have you encountered from the following options?
-## perhaps not required 
- - Handling NULL/missing values
- - Removing outliers
- - Common Scale
- - Deleting garbage data
 
 ## try to merge into small concise questions to get the answers
