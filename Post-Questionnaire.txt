@@ -17,22 +17,34 @@ Post-Questionnaire:
 
 --------------------- latest ----------------------
 
+## Expertise Level
 
-1. How much did you use the pre knowledge information while solving the problem?
+Q. Rate your coding expertise: ## 4/5 almost similar
+(from 1 of 5: 1= not much confident , 5= very confident/expert)
+
+Q. Have you had previous experience in python coding? If so, rank your expertise. 
+(from 1 of 5: 1= not much confident , 5= very confident)
+
+Q. Have you had previous experience with data science coding using python? If so, rank your expertise. 
+(from 1 of 5: 1= not much confident , 5= very confident)
 
 
-2. Was the conceptual information helpful for you? describe briefly?
+
+Q. How much did you use the pre knowledge information while solving the problem?
 
 
-3. Was the code explanations helpful or tedious for you? Briefly explain your reasons.
+Q. Was the conceptual information helpful for you? describe briefly?
 
 
-4. Which aspect of the worked example was most helpful for you in solving the problems?
+Q. Was the code explanations helpful or tedious for you? Briefly explain your reasons.
 
 
-5. What were the issues you faced while using the worked examples (while navigating, code explanations, conceptual explanations)?
+Q. Which aspect of the worked example was most helpful for you in solving the problems?
 
-6. From the given problem solving notebooks, which ones helped you learn better?
+
+Q. What were the issues you faced while using the worked examples (while navigating, code explanations, conceptual explanations)?
+
+Q. From the given problem solving notebooks, which ones helped you learn better?
 
 
 
